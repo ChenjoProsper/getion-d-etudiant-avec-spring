@@ -1,0 +1,10 @@
+/home/bober/WorkSpace/TP 222/SPRING/Etudiant/src/main/java/com/example/Etudiant/EtudiantApplication.java
+/home/bober/WorkSpace/TP 222/SPRING/Etudiant/src/main/java/com/example/Etudiant/models/Etudiant.java
+/home/bober/WorkSpace/TP 222/SPRING/Etudiant/src/main/java/com/example/Etudiant/models/Matiere.java
+/home/bober/WorkSpace/TP 222/SPRING/Etudiant/src/main/java/com/example/Etudiant/models/Note.java
+/home/bober/WorkSpace/TP 222/SPRING/Etudiant/src/main/java/com/example/Etudiant/repository/EtudiantRepository.java
+/home/bober/WorkSpace/TP 222/SPRING/Etudiant/src/main/java/com/example/Etudiant/repository/MatiereRepository.java
+/home/bober/WorkSpace/TP 222/SPRING/Etudiant/src/main/java/com/example/Etudiant/repository/NoteRepository.java
+/home/bober/WorkSpace/TP 222/SPRING/Etudiant/src/main/java/com/example/Etudiant/service/EtudiantService.java
+/home/bober/WorkSpace/TP 222/SPRING/Etudiant/src/main/java/com/example/Etudiant/service/MatiereService.java
+/home/bober/WorkSpace/TP 222/SPRING/Etudiant/src/main/java/com/example/Etudiant/service/NoteService.java
